@@ -2,7 +2,6 @@ public class FindMaxMin {
     public static void main(String[] args) {
         int[] numbers = {45, 23, 67, 89, 12, 34, 78, 56, 91, 38};
         
-        // 初始化：假設第一個元素為最大值和最小值
         int max = numbers[0];
         int min = numbers[0];
         int maxIndex = 0;
